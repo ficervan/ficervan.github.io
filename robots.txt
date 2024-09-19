@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ficervan.github.io/sitemap.html.gz
+Sitemap: https://ficervan.github.io/app/sitemap.html.gz
+Sitemap: https://ficervan.github.io/assets/sitemap.html.gz
+Sitemap: https://ficervan.github.io/css/sitemap.html.gz
+Sitemap: https://ficervan.github.io/data/sitemap.html.gz
+Sitemap: https://ficervan.github.io/includes/sitemap.html.gz
+Sitemap: https://ficervan.github.io/item/sitemap.html.gz
+Sitemap: https://ficervan.github.io/src/sitemap.html.gz
